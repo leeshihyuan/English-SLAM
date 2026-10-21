@@ -5,6 +5,8 @@ How to build a vision-based navigation and localization drone,
 Editor: Lee Shihyuan (李世淵) LINE OA @prof
 
 
+ Buy the editor a cup of coffee https://buymeacoffee.com/alexy8  (買一杯咖啡給編者)
+
 
 ![Simultaneous Localization and Mapping（SLAM）](https://github.com/leeshihyuan/English-SLAM/blob/main/SLAM-Simultaneous-Localization-and-Mapping_Cover-Bald-Eagle.png "Simultaneous Localization and Mapping（SLAM）")
 
